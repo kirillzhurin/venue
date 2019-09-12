@@ -40,7 +40,7 @@ export default class Header extends Component {
       <AppBar
         position="fixed"
         style={{
-          transition: "background-color 300ms ease",
+          transition: 'background-color 300ms ease',
           backgroundColor: this.state.headerShow ? '#2f2f2f' : 'transparent',
           boxShadow: 'none',
           padding: '10px 0px'
