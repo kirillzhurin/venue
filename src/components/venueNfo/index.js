@@ -47,7 +47,7 @@ const VenueNfo = () => {
                     Event Location
                   </div>
                   <div className="vn_desc">
-                    35 Swindon St, Ophir 9387
+                    80 Rue Lavaud, Akaroa 7520
                   </div>
                 </div>
               </div>
