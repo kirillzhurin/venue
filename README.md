@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live Demo](https://venue-1ce4f.firebaseapp.com/)
 
 ## Available Scripts
 
