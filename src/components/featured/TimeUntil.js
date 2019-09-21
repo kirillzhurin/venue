@@ -55,7 +55,7 @@ class TimeUntil extends Component {
                 {this.state.hours}
               </div>
               <div className="countdown_tag">
-                Hs
+                Hr
               </div>
             </div>
             <div className="countdown_item">
